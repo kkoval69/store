@@ -8,10 +8,9 @@ import ShopList from "./components/ShopList";
 function App() {
   return (
     <div className="App">
-      <Header/>
-        <Catalog/>
-
-        <Footer/>
+      <Header />
+        <Catalog />
+        <Footer />
     </div>
   );
 }
